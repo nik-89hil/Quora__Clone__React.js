@@ -1,0 +1,40 @@
+.spaceStyle button{
+    padding: 5px 2px;
+    border:0px solid rgb(227, 227, 227);
+    color: black;
+    background-color: none;
+    font-size: 15px;
+    /* margin-top: 2px; */
+}
+
+.spaceStyle  a{
+    text-decoration: none;
+    border:0px solid rgb(227, 227, 227);
+    font-size: 15px;
+    color: black;
+    padding: 0px 2vw;
+}
+.spaceStyle i{
+    color: black;
+}
+.spaceStyle button:hover{
+    background-color: rgb(232, 228, 228);
+}
+
+.spaceCollection{
+    display: grid;
+    max-width: 60vw;
+    margin: auto;
+    /* background-color: blue; */
+    grid-template-columns: auto auto auto;
+    grid-gap: 9px;
+}
+
+.spaceCollection div:hover{
+    background-color: rgb(255, 143, 143);
+}
+
+.textAreaforPost textarea{
+    outline: none;
+    border: none;
+}

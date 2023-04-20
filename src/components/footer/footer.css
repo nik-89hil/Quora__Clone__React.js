@@ -1,0 +1,14 @@
+.footerBox{
+    background-color: rgb(238, 237, 237);
+    margin-top: 20px;
+    font-size: 14px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.footerBox ul li{
+    list-style-type: circle;
+    text-decoration: none;
+    color: grey;
+}
+

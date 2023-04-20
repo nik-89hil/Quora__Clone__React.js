@@ -1,0 +1,62 @@
+.midTop{
+    border: 1px solid grey;
+    width: 47vw;
+    /* margin-left: 380px; */
+   
+}
+
+
+.midTopFirst{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 5px 9px;
+
+}
+
+.midTopFirst img{
+    height: 26px;
+    width: 26px;
+    border-radius: 50px;
+}
+
+.midTopFirst button{
+    color: none;
+}
+.midTop .btn{
+    width: 12vw;
+}
+
+.midTopFirst .btn input {
+    width: 39vw;
+    border-radius: 20px;
+    border: 1px solid rgb(174, 174, 174);
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left: 2vw;
+}
+
+.midTopSecond{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 5px;
+    
+}
+
+.midTopSecond button{
+    background-color: white;
+    padding:4px 4vw;
+    border: none;
+    border-right: 1px solid rgb(174, 174, 174);
+}
+
+.midTopSecond button a{
+    text-decoration: none;
+    color: grey;
+}
+
+.midTopFirst .btn input:hover,
+.midTopSecond button:hover{
+    background-color:rgb(233, 233, 233);
+}

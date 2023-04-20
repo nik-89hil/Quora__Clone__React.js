@@ -1,0 +1,8 @@
+.alignHome{
+    display: flex;
+    justify-content:space-between;
+    width: 75vw;
+    margin-left: 14vw;
+    margin-top: 3vh;
+    /* background-color: blue; */
+}

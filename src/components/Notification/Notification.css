@@ -1,0 +1,60 @@
+.sideNotification{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 13vw;
+    margin-top: 7vh;
+    
+}
+
+.sideNotification button{
+    width: 10vw;
+    border:none;
+    text-align: left;
+    padding-left: 7px;
+}
+.sideNotification button:hover{
+    background-color: rgb(214, 211, 211);
+}
+
+.classicNotification{
+    margin-top: -14vh;
+    margin-left: 25vw;
+    width: 43vw;
+    border: 1px solid black;
+    padding: 9px;
+}
+
+.rowwdy{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    background-color: rgb(241, 241, 241);
+    padding: 5px;
+}
+.rowwdy h6{
+    border: 1px solid grey;
+    padding: 8px;
+    border-radius: 7px;
+}
+.rowwdy img{
+    width: 35px;
+    height: 30px;
+    margin-right: 7px;
+    border-radius: 5px;
+}
+
+.rowwdy p{
+    color: grey;
+}
+
+.bellContainer{
+    text-align: center;
+    margin-top: 10vh;
+}
+
+
+.bellContainer i{
+    font-size: 80px;
+
+}

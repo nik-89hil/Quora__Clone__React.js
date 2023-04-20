@@ -1,0 +1,12 @@
+.followingContainer{
+    width: 45vw;
+    border: 1px solid black;
+    padding: 4vh;
+}
+
+.spacProfi img{
+    width: 35px;
+    height: 35px;
+    border-radius: 5px;
+    margin-right: 5px;
+}

@@ -1,0 +1,59 @@
+.mainContainer{
+    width: 47vw;
+    min-height: 70vh;
+    border: 1px solid black;
+    margin-bottom: 8vh;
+    /* margin-left: 380px; */
+   
+}
+
+.profile{
+    height: 28px;
+    width: 28px;
+    border-radius: 50px;
+}
+
+.nameDetails{
+    display: flex;
+    justify-content: flex-start;
+   margin-top: 3vh;
+   margin-left: 2vh;
+}
+
+.questionContainer{
+    margin-left: 2vh;
+}
+.answerContainer{
+    text-align: justify;
+    margin-left: 3vh;
+    margin-right: 3vh;
+}
+
+.PostImage img{
+    width: 100%;
+    object-fit: cover;
+    height: 55vh;
+}
+
+.lastUpvote{
+    margin-top: 2vh;
+    margin-left: 2vh;
+    margin-bottom: 2vh;
+}
+.lastUpvote button{
+    margin-right: 5px;
+    border: none;
+    padding: 3px 4px;
+}
+
+
+
+.PostImage img:hover{
+    opacity: 1 !important;
+}
+
+.followButton{
+    border: none;
+    color: blue;
+    font-size: 15px;
+}

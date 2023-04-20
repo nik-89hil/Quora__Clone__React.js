@@ -1,0 +1,48 @@
+.ansRoutCont{
+    width:40vw ;
+    border: 1px solid grey;
+   padding-bottom: 5px;
+}
+.quesForYou{
+    display: flex;
+    height: 3vh;
+   margin-top: 7px;
+   margin-left: 2vw;
+  
+}
+
+.quesForYou i{
+    color: red;
+    font-size: 22px;
+}
+
+.quesForYou i:hover{
+    padding: none;
+    color: none;
+}
+
+.answebutt{
+    border:1px solid grey;
+    color: grey;
+    background-color:white;
+    margin-left: 2vw;
+}
+
+.answebutt i{
+    color: black;
+}
+
+.quesForYoubuttt{
+    color: red;
+    font-size: 14px;
+    border: none;
+    text-decoration: underline;
+    padding: 2px 6px;
+    background-color: rgb(250, 202, 202);
+}
+
+.othersbutt{
+    margin-top: 5px;
+    border: none;
+    font-size: 14px;
+}
